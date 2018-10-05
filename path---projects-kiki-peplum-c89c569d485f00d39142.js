@@ -1,2 +1,0 @@
-webpackJsonp([31747297776940],{371:function(i,t){i.exports={data:{markdownRemark:{html:'<p><img src="/static/KikiPeplumSample.jpeg" alt="Javia - V-neck Peplum">\n<img src="/static/KikiPeplumFabric.jpeg" alt="Javia - Kiki Peplum Fabric">\n<img src="/static/KikiPeplum.jpeg" alt="Javia - Finished Kiki Peplum"></p>',frontmatter:{path:"/projects/kiki-peplum",title:"PEPLUM TOP",origin:"/projects"}}},pathContext:{}}}});
-//# sourceMappingURL=path---projects-kiki-peplum-c89c569d485f00d39142.js.map

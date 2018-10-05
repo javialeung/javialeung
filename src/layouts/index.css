@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond');
+@import url('https://use.fontawesome.com/releases/v5.2.0/css/all.css');
+
+html {
+    font-family: 'Cormorant Garamond', sans-serif;
+    height: 100%;
+    background: #fafafa;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+  

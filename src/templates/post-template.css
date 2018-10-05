@@ -1,0 +1,27 @@
+.site-nav-option {
+    font-size: 30px;
+    line-height: 30px;
+    height: 30px;
+    text-decoration: none;
+    text-transform: none;
+    letter-spacing: 0;
+    text-decoration: none;
+    color: black;
+}
+
+.wrapper {
+    padding: 20px;
+    margin: 0 40px;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.post-content > p {
+    display: flex;
+    flex-direction: column;
+}
+
+.post-content > p > img {
+    height: auto;
+    max-width: 100%;
+    width: 500px;
+}

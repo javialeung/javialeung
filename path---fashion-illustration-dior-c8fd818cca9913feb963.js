@@ -1,2 +1,0 @@
-webpackJsonp([52354695156686],{367:function(t,a){t.exports={data:{markdownRemark:{html:'<p><img src="/static/TrenchCoat.jpeg" alt="Javia - Trench Coat">\n<img src="/static/TrenchCoat(2).jpeg" alt="Javia - Trench Coat">\n<img src="/static/Dress.jpeg" alt="Javia - Dress">\n<img src="/static/Dress(2).jpeg" alt="Javia - Dress"></p>',frontmatter:{path:"/fashion-illustration/dior",title:"MODERN BALLERINA - INSPIIRED BY VALENTINO F'16",origin:"/fashion-illustration"}}},pathContext:{}}}});
-//# sourceMappingURL=path---fashion-illustration-dior-c8fd818cca9913feb963.js.map
