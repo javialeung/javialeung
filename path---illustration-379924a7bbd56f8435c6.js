@@ -1,2 +1,2 @@
-webpackJsonp([0xcbada2f618ad],{375:function(e,a){e.exports={data:{allMarkdownRemark:{edges:[{node:{excerpt:"",id:"C:/Users/Johnnie/Desktop/Javia/javia/src/pages/drawing/reflection/index.md absPath of file >>> MarkdownRemark",frontmatter:{title:"REFLECTION",path:"/illustratiion/reflection",cover:"/static/Reflection.jpeg"}}}]}},pathContext:{}}}});
+webpackJsonp([0xcbada2f618ad],{369:function(e,a){e.exports={data:{allMarkdownRemark:{edges:[{node:{excerpt:"",id:"C:/Users/Johnnie/Desktop/Javia/javia/src/pages/drawing/reflection/index.md absPath of file >>> MarkdownRemark",frontmatter:{title:"REFLECTION",path:"/illustratiion/reflection",cover:"/static/Reflection.jpeg"}}}]}},pathContext:{}}}});
 //# sourceMappingURL=path---illustration-379924a7bbd56f8435c6.js.map

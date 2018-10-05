@@ -1,0 +1,2 @@
+webpackJsonp([92369126747985],{376:function(t,o){t.exports={data:{allMarkdownRemark:{edges:[{node:{excerpt:"\n \n \n \n",id:"C:/Users/Johnnie/Desktop/Javia/javia/src/pages/style/photoshoot/index.md absPath of file >>> MarkdownRemark",frontmatter:{title:"LASALLE FINAL PROJECT",path:"/styling/photoshoot",cover:"/static/Photoshoot.jpeg"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---styling-4c1f0a339cc5ecfb5ca7.js.map
