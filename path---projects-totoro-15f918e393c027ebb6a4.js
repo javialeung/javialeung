@@ -1,0 +1,2 @@
+webpackJsonp([86973871339028],{373:function(t,o){t.exports={data:{markdownRemark:{html:'<p><img src="/static/Totoro.jpeg" alt="Javia - Wool Totoro"></p>',frontmatter:{path:"/projects/totoro",title:"TOTORO",origin:"/projects"}}},pathContext:{}}}});
+//# sourceMappingURL=path---projects-totoro-15f918e393c027ebb6a4.js.map

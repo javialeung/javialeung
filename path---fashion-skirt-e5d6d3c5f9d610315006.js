@@ -1,0 +1,2 @@
+webpackJsonp([0x70937b0d73cb],{372:function(t,i){t.exports={data:{markdownRemark:{html:'<p><img src="/static/Skirt.jpeg" alt="Javia - Skirt">\n<img src="/static/Skirt(2).jpeg" alt="Javia - Skirt">\n<img src="/static/Skirt(3).jpeg" alt="Javia - Skirt">\n<img src="/static/Skirt(4).jpeg" alt="Javia - Skirt"></p>',frontmatter:{path:"/fashion/skirt",title:"SKIRT",origin:"/fashion"}}},pathContext:{}}}});
+//# sourceMappingURL=path---fashion-skirt-e5d6d3c5f9d610315006.js.map

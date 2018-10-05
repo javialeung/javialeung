@@ -1,0 +1,2 @@
+webpackJsonp([4056567353322],{353:function(t,a){t.exports={data:{markdownRemark:{html:'<p><img src="/javia/static/2.jpeg" alt="Javia Bralette"></p>',frontmatter:{date:"July 08, 2018",path:"/projects/bralette",title:"BRALETTE"}}},pathContext:{}}}});
+//# sourceMappingURL=path---projects-bralette-8d3e1252879331704fff.js.map

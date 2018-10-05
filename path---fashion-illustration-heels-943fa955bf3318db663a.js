@@ -1,0 +1,2 @@
+webpackJsonp([48405893795543],{366:function(a,t){a.exports={data:{markdownRemark:{html:'<p><img src="/javia/static/Heels.jpeg" alt="Javia - Heels">\n<img src="/javia/static/Heels(2).jpeg" alt="Javia - Drawing ofHeels"></p>',frontmatter:{path:"/fashion-illustration/heels",title:"Heels",origin:"/fashion-illustration"}}},pathContext:{}}}});
+//# sourceMappingURL=path---fashion-illustration-heels-943fa955bf3318db663a.js.map

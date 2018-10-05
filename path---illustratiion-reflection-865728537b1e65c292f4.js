@@ -1,0 +1,2 @@
+webpackJsonp([0xb7f65f431d51],{368:function(t,i){t.exports={data:{markdownRemark:{html:'<p><img src="/javia/static/Reflection.jpeg" alt="Javia - Reflection"></p>',frontmatter:{path:"/illustratiion/reflection",title:"Reflection",origin:"/illustration"}}},pathContext:{}}}});
+//# sourceMappingURL=path---illustratiion-reflection-865728537b1e65c292f4.js.map

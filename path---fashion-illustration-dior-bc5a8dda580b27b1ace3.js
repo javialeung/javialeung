@@ -1,0 +1,2 @@
+webpackJsonp([52354695156686],{364:function(a,t){a.exports={data:{markdownRemark:{html:'<p><img src="/javia/static/TrenchCoat.jpeg" alt="Javia - Trench Coat">\n<img src="/javia/static/TrenchCoat(2).jpeg" alt="Javia - Trench Coat">\n<img src="/javia/static/Dress.jpeg" alt="Javia - Dress">\n<img src="/javia/static/Dress(2).jpeg" alt="Javia - Dress"></p>',frontmatter:{path:"/fashion-illustration/dior",title:"Dior",origin:"/fashion-illustration"}}},pathContext:{}}}});
+//# sourceMappingURL=path---fashion-illustration-dior-bc5a8dda580b27b1ace3.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xf7434f26f66e],{372:function(t,a){t.exports={data:{markdownRemark:{html:'<p><img src="/static/Skirt.jpeg" alt="Javia - Skirt">\n<img src="/static/Skirt(2).jpeg" alt="Javia - Skirt"></p>',frontmatter:{path:"/projects/skirt",title:"SKIRT",origin:"/projects"}}},pathContext:{}}}});
+//# sourceMappingURL=path---projects-skirt-5a098239fc881c76a6bf.js.map

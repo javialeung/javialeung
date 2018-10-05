@@ -1,0 +1,2 @@
+webpackJsonp([0xf7434f26f66e],{353:function(t,a){t.exports={data:{markdownRemark:{html:'<p><img src="/javia/static/1.jpeg" alt="Javia Skirt"></p>',frontmatter:{date:"July 07, 2018",path:"/projects/skirt",title:"SKIRT"}}},pathContext:{}}}});
+//# sourceMappingURL=path---projects-skirt-bcb126d3b49d428561aa.js.map

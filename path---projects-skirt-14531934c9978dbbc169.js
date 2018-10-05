@@ -1,0 +1,2 @@
+webpackJsonp([0xf7434f26f66e],{354:function(e,o){e.exports={data:{markdownRemark:{html:"<div class=\"blog-inset\">\n  <zoom-image src='lake-22.jpg' zoomSrc='lake-22-zoom.jpg' caption='Lake 22, WA'></zoom-image>\n  <hidden>\n    <img src='lake-22.jpg' />\n    <img src='lake-22-zoom.jpg' />\n  </hidden>\n</div>",frontmatter:{date:"July 07, 2018",path:"/projects/skirt",title:"SKIRT"}}},pathContext:{}}}});
+//# sourceMappingURL=path---projects-skirt-14531934c9978dbbc169.js.map
