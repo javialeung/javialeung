@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { CSSTransition } from 'react-transition-group';
-import Link from 'gatsby-link'
+import Link from 'gatsby-link';
 
 import '../styles/header.css';
 

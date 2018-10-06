@@ -1,10 +1,13 @@
-import React from 'react'
+import React from 'react';
+import Link from 'gatsby-link';
 
-const NotFoundPage = () => (
-  <div style={{padding: '20px'}}>
-    <div style={{fontSize: '60px', padding: '10px 0'}}>Oops!</div>
-    <div style={{fontSize: '20px', padding: '10px 0'}}>We can't seem to find the page you're looking for. Try again?</div>
-  </div>
-)
-
-export default NotFoundPage
+export default function NotFoundPage() {
+  return (
+    <div className="content">
+      <div className="wrapper">
+        <div style={{ fontSize: '60px', padding: '10px 0' }}>Oops!</div>
+        <div style={{ fontSize: '20px', padding: '10px 0' }}>We couldn't find the page you are looking for. Return to <Link to="/" style={{ textDecoration: 'none', fontWeight: 'bold' }}>home page</Link> and try again.</div>
+      </div>
+    </div>
+  )
+}
