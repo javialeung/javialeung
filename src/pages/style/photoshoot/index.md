@@ -1,7 +1,7 @@
 ---
-path: "/styling/photoshoot"
+path: "/styling/Modern-Rococo-Editorial"
 date: "2018-09-01"
-title: "LaSalle Final Project"
+title: "Modern Rococo Editorial"
 cover: "/static/Photoshoot.jpeg"
 origin: "/styling"
 ---

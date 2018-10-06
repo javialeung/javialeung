@@ -1,7 +1,7 @@
 ---
 path: "/projects/totoro"
 date: "2018-09-01"
-title: "TOTORO"
+title: "Totoro"
 cover: "/static/Totoro.jpeg"
 origin: "/projects"
 ---

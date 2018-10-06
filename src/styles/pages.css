@@ -23,8 +23,9 @@
     margin-right: 50px;
     margin-bottom: 20px;
   }
-  
-  .home-content {
+
+  .home-content,
+  .general-content {
     color: #000000;
     display: flex;
     justify-content: center;

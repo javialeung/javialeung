@@ -7,23 +7,23 @@ import Message from '../components/message'
 import './index.css'
 import favicon from '../../public/static/favicon.ico'
 
-export default function Layout ({ location, children, data }) {
+export default function Layout({ location, children, data }) {
   const { siteUrl } = data.site.siteMetadata;
   const fullUrl = `${siteUrl}${location.pathname}`;
 
   return (
     <div>
-    <Helmet
-      title={data.site.siteMetadata.title}
-      link={[
-        { rel: 'shortcut icon', type: 'image/x-icon', href: `${favicon}` },
-        { rel: 'icon', type: 'image/x-icon', href: `${favicon}` }
-      ]}
-    />
-    <Header/>
-    {children()}
-    <Message location={fullUrl}></Message>
-  </div>
+      <Helmet
+        title={data.site.siteMetadata.title}
+        link={[
+          { rel: 'shortcut icon', type: 'image/x-icon', href: `${favicon}` },
+          { rel: 'icon', type: 'image/x-icon', href: `${favicon}` }
+        ]}
+      />
+      <Header />
+      {children()}
+      <Message location={fullUrl}></Message>
+    </div>
   )
 }
 

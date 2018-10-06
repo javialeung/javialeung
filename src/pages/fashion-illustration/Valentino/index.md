@@ -1,7 +1,7 @@
 ---
-path: "/fashion-illustration/dior"
+path: "/fashion-illustration/valentino"
 date: "2018-09-01"
-title: "Dior"
+title: "Modern Ballerina - Inspired by Valentino F'16"
 cover: "/static/TrenchCoat.jpeg"
 origin: "/fashion-illustration"
 ---
