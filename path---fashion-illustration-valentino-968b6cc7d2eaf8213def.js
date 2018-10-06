@@ -1,0 +1,2 @@
+webpackJsonp([79243608372075],{369:function(a,t){a.exports={data:{markdownRemark:{html:'<p><img src="/static/TrenchCoat.jpeg" alt="Javia - Trench Coat">\n<img src="/static/TrenchCoat(2).jpeg" alt="Javia - Trench Coat">\n<img src="/static/Dress.jpeg" alt="Javia - Dress">\n<img src="/static/Dress(2).jpeg" alt="Javia - Dress"></p>',frontmatter:{path:"/fashion-illustration/valentino",title:"Modern Ballerina - Inspired by Valentino F'16",origin:"/fashion-illustration"}}},pathContext:{}}}});
+//# sourceMappingURL=path---fashion-illustration-valentino-968b6cc7d2eaf8213def.js.map

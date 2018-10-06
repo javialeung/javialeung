@@ -1,2 +1,2 @@
-webpackJsonp([0xb7f65f431d51],{368:function(t,i){t.exports={data:{markdownRemark:{html:'<p><img src="/static/Reflection.jpeg" alt="Javia - Reflection"></p>',frontmatter:{path:"/illustratiion/reflection",title:"Reflection",origin:"/illustration"}}},pathContext:{}}}});
+webpackJsonp([0xb7f65f431d51],{374:function(t,i){t.exports={data:{markdownRemark:{html:'<p><img src="/static/Reflection.jpeg" alt="Javia - Reflection"></p>',frontmatter:{path:"/illustratiion/reflection",title:"Reflection",origin:"/illustration"}}},pathContext:{}}}});
 //# sourceMappingURL=path---illustratiion-reflection-2a08b22c26970487b5da.js.map

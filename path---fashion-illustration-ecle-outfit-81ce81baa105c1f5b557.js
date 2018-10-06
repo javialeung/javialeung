@@ -1,0 +1,2 @@
+webpackJsonp([76054360079478],{367:function(t,a){t.exports={data:{markdownRemark:{html:'<p><img src="/static/Drawing.jpeg" alt="Javia - E:CLE Outfit">\n<img src="/static/DrawingCloseup.jpeg" alt="Javia - E:CLE Outfit"></p>',frontmatter:{path:"/fashion-illustration/ecle-outfit",title:"Inspired by E:CLE",origin:"/fashion-illustration"}}},pathContext:{}}}});
+//# sourceMappingURL=path---fashion-illustration-ecle-outfit-81ce81baa105c1f5b557.js.map

@@ -1,64 +1,72 @@
 {
   "assetsByChunkName": {
-    "path---projects-kiki-peplum": [
-      "path---projects-kiki-peplum-c89c569d485f00d39142.js",
-      "path---projects-kiki-peplum-c89c569d485f00d39142.js.map"
-    ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-bf478a5eaf78e798ecaa.js",
       "component---src-pages-index-js-bf478a5eaf78e798ecaa.js.map"
     ],
     "path---fashion-illustration-heels": [
-      "path---fashion-illustration-heels-1f24093b4b2da647402a.js",
-      "path---fashion-illustration-heels-1f24093b4b2da647402a.js.map"
-    ],
-    "path---styling-photoshoot": [
-      "path---styling-photoshoot-0e976440beed26553c1e.js",
-      "path---styling-photoshoot-0e976440beed26553c1e.js.map"
+      "path---fashion-illustration-heels-289b3909dd5b69953a74.js",
+      "path---fashion-illustration-heels-289b3909dd5b69953a74.js.map"
     ],
     "component---src-pages-fashion-illustration-js": [
-      "component---src-pages-fashion-illustration-js-c4414000ce5b433816c3.js",
-      "component---src-pages-fashion-illustration-js-c4414000ce5b433816c3.js.map"
-    ],
-    "path---fashion-illustration-dior": [
-      "path---fashion-illustration-dior-340bd8835c8ea2c91a07.js",
-      "path---fashion-illustration-dior-340bd8835c8ea2c91a07.js.map"
+      "component---src-pages-fashion-illustration-js-1e6aecd0720b07a07e41.js",
+      "component---src-pages-fashion-illustration-js-1e6aecd0720b07a07e41.js.map"
     ],
     "path---": [
       "path----0e9317950f6579768d48.js",
       "path----0e9317950f6579768d48.js.map"
     ],
     "path---fashion-illustration-ecle-outfit": [
-      "path---fashion-illustration-ecle-outfit-3a5f9fba23884fe621d2.js",
-      "path---fashion-illustration-ecle-outfit-3a5f9fba23884fe621d2.js.map"
+      "path---fashion-illustration-ecle-outfit-81ce81baa105c1f5b557.js",
+      "path---fashion-illustration-ecle-outfit-81ce81baa105c1f5b557.js.map"
+    ],
+    "path---fashion-illustration-valentino": [
+      "path---fashion-illustration-valentino-968b6cc7d2eaf8213def.js",
+      "path---fashion-illustration-valentino-968b6cc7d2eaf8213def.js.map"
+    ],
+    "path---fashion-kiki-peplum": [
+      "path---fashion-kiki-peplum-9bf3c08d10e598d68162.js",
+      "path---fashion-kiki-peplum-9bf3c08d10e598d68162.js.map"
     ],
     "path---projects-totoro": [
-      "path---projects-totoro-15f918e393c027ebb6a4.js",
-      "path---projects-totoro-15f918e393c027ebb6a4.js.map"
+      "path---projects-totoro-c13209a7faf154d2ac28.js",
+      "path---projects-totoro-c13209a7faf154d2ac28.js.map"
     ],
     "path---styling": [
-      "path---styling-4c1f0a339cc5ecfb5ca7.js",
-      "path---styling-4c1f0a339cc5ecfb5ca7.js.map"
+      "path---styling-ec07e1fcef91aeefdcde.js",
+      "path---styling-ec07e1fcef91aeefdcde.js.map"
+    ],
+    "path---styling-modern-rococo-editorial": [
+      "path---styling-modern-rococo-editorial-dae83f015e55ca229a55.js",
+      "path---styling-modern-rococo-editorial-dae83f015e55ca229a55.js.map"
     ],
     "path---projects": [
-      "path---projects-294d8274b144fa5a06e8.js",
-      "path---projects-294d8274b144fa5a06e8.js.map"
+      "path---projects-87d5b470da96b3fafbdc.js",
+      "path---projects-87d5b470da96b3fafbdc.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-bc48b409a8c24b664f5e.js",
-      "component---src-layouts-index-js-bc48b409a8c24b664f5e.js.map"
+      "component---src-layouts-index-js-93d4e54bdbd3d90f71b1.js",
+      "component---src-layouts-index-js-93d4e54bdbd3d90f71b1.js.map"
+    ],
+    "path---fashion-skirt": [
+      "path---fashion-skirt-8f7d1df92c2a9f377961.js",
+      "path---fashion-skirt-8f7d1df92c2a9f377961.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---fashion-illustration": [
-      "path---fashion-illustration-c9f0425d9c1bdc2c61a4.js",
-      "path---fashion-illustration-c9f0425d9c1bdc2c61a4.js.map"
+      "path---fashion-illustration-e27df3d54f2bde6f1945.js",
+      "path---fashion-illustration-e27df3d54f2bde6f1945.js.map"
     ],
     "component---src-pages-illustration-js": [
-      "component---src-pages-illustration-js-0a229e69a40d4ea9bdcd.js",
-      "component---src-pages-illustration-js-0a229e69a40d4ea9bdcd.js.map"
+      "component---src-pages-illustration-js-f3eb18e14f8064ab6783.js",
+      "component---src-pages-illustration-js-f3eb18e14f8064ab6783.js.map"
+    ],
+    "path---fashion": [
+      "path---fashion-d8dec73d4a8c87cab054.js",
+      "path---fashion-d8dec73d4a8c87cab054.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-a358a690465e8b12c95a.js",
@@ -74,30 +82,34 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "component---src-pages-fashion-js": [
+      "component---src-pages-fashion-js-d7bbd9ca7263d54cf948.js",
+      "component---src-pages-fashion-js-d7bbd9ca7263d54cf948.js.map"
+    ],
     "component---src-templates-post-template-js": [
       "component---src-templates-post-template-js-7abe480367f6fb6050bd.js",
       "component---src-templates-post-template-js-7abe480367f6fb6050bd.js.map"
     ],
     "path---illustratiion-reflection": [
-      "path---illustratiion-reflection-ffbc6fdf7a7e572ac38c.js",
-      "path---illustratiion-reflection-ffbc6fdf7a7e572ac38c.js.map"
+      "path---illustratiion-reflection-2a08b22c26970487b5da.js",
+      "path---illustratiion-reflection-2a08b22c26970487b5da.js.map"
     ],
     "component---src-pages-projects-js": [
-      "component---src-pages-projects-js-ed2f54a98426718cafe6.js",
-      "component---src-pages-projects-js-ed2f54a98426718cafe6.js.map"
+      "component---src-pages-projects-js-e9e6631e01fdc2090f53.js",
+      "component---src-pages-projects-js-e9e6631e01fdc2090f53.js.map"
     ],
     "component---src-pages-styling-js": [
-      "component---src-pages-styling-js-72b5e80d0bcc0b58a5c6.js",
-      "component---src-pages-styling-js-72b5e80d0bcc0b58a5c6.js.map"
+      "component---src-pages-styling-js-c9c7a175af9f0a3a67e1.js",
+      "component---src-pages-styling-js-c9c7a175af9f0a3a67e1.js.map"
     ],
     "path---illustration": [
-      "path---illustration-379924a7bbd56f8435c6.js",
-      "path---illustration-379924a7bbd56f8435c6.js.map"
+      "path---illustration-b7bb1a227f4f7f3f7b58.js",
+      "path---illustration-b7bb1a227f4f7f3f7b58.js.map"
     ],
     "app": [
-      "app-7923c20cf18dcc71b03c.js",
+      "app-dc398aef7781a6bdd62f.js",
       "build-js-styles.css",
-      "app-7923c20cf18dcc71b03c.js.map",
+      "app-dc398aef7781a6bdd62f.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
@@ -107,10 +119,6 @@
     "component---src-pages-about-js": [
       "component---src-pages-about-js-f32960e97136d39aa25c.js",
       "component---src-pages-about-js-f32960e97136d39aa25c.js.map"
-    ],
-    "path---projects-skirt": [
-      "path---projects-skirt-5a098239fc881c76a6bf.js",
-      "path---projects-skirt-5a098239fc881c76a6bf.js.map"
     ],
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",

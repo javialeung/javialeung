@@ -1,0 +1,2 @@
+webpackJsonp([48405893795543],{368:function(t,a){t.exports={data:{markdownRemark:{html:'<p><img src="/static/Heels.jpeg" alt="Javia - Heels">\n<img src="/static/Heels(2).jpeg" alt="Javia - Drawing of Heels"></p>',frontmatter:{path:"/fashion-illustration/heels",title:"Jimmy Choo Heels",origin:"/fashion-illustration"}}},pathContext:{}}}});
+//# sourceMappingURL=path---fashion-illustration-heels-289b3909dd5b69953a74.js.map

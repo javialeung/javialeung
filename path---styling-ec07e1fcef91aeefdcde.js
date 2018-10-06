@@ -1,0 +1,2 @@
+webpackJsonp([92369126747985],{380:function(o,t){o.exports={data:{allMarkdownRemark:{edges:[{node:{excerpt:"\n \n \n \n",id:"C:/Users/Johnnie/Desktop/Javia/javia/src/pages/style/photoshoot/index.md absPath of file >>> MarkdownRemark",frontmatter:{title:"Modern Rococo Editorial",path:"/styling/Modern-Rococo-Editorial",cover:"/static/Photoshoot.jpeg"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---styling-ec07e1fcef91aeefdcde.js.map

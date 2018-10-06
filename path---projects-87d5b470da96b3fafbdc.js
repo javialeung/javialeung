@@ -1,0 +1,2 @@
+webpackJsonp([97786326051841],{378:function(o,t){o.exports={data:{allMarkdownRemark:{edges:[{node:{excerpt:"",id:"C:/Users/Johnnie/Desktop/Javia/javia/src/pages/crafts/totoro/index.md absPath of file >>> MarkdownRemark",frontmatter:{title:"Totoro",path:"/projects/totoro",cover:"/static/Totoro.jpeg"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---projects-87d5b470da96b3fafbdc.js.map
