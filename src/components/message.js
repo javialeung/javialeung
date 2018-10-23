@@ -51,7 +51,7 @@ class Message extends Component {
                                 </div>
                                 <div className="form-group">
                                     <label>Email: <span className="required-input">*</span></label>
-                                    <input name="email" type="text" className="form-control" required/>
+                                    <input name="email" type="email" className="form-control" required/>
                                 </div>
                                 <div className="form-group">
                                     <label>Subject: (Optional)</label>
@@ -59,7 +59,7 @@ class Message extends Component {
                                 </div>
                                 <div className="form-group">
                                     <label>Message: <span className="required-input">*</span></label>
-                                    <textarea name="message" type="text" className="form-control" rows="3" required/>
+                                    <textarea name="message" type="text" className="form-control" rows="3" maxLength="500" required/>
                                 </div>
                                 <input type="hidden" name="*redirect" value={this.props.location} />
                                 <input type="hidden" name="*honeypot" />
