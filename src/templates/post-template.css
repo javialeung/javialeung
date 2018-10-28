@@ -22,7 +22,7 @@
 
 .post-content img {
     height: auto;
-    max-width: 500px;
+    max-width: 100%;
     width: 500px;
     padding-bottom: 20px;
 }
