@@ -5,4 +5,12 @@ title: "Totoro"
 cover: "/static/Totoro.jpeg"
 origin: "/projects"
 ---
-![Javia - Wool Totoro](/static/Totoro.jpeg)
+<zoom-image 
+  src='/static/Totoro.jpeg' 
+  zoomSrc='/static/Totoro.jpeg' 
+  caption='Javia - Wool Totoro'>
+</zoom-image>
+<hidden>
+    <img src='/static/Totoro.jpeg' />
+    <img src='/static/Totoro.jpeg' />
+</hidden>

@@ -20,9 +20,9 @@
     flex-direction: column;
 }
 
-.post-content > p > img {
+.post-content img {
     height: auto;
-    max-width: 100%;
+    max-width: 500px;
     width: 500px;
     padding-bottom: 20px;
 }

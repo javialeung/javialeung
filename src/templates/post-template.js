@@ -2,6 +2,8 @@ import React, { Component } from "react";
 import Link from "gatsby-link";
 import Helmet from "react-helmet";
 
+import TextPostBody from './../components/textPost';
+
 import '../templates/post-template.css';
 
 class Template extends Component {
@@ -16,10 +18,7 @@ class Template extends Component {
             <Helmet title={`JAVIA LEUNG - ${post.frontmatter.title}`} />
             <div className="post">
               <h1>{post.frontmatter.title}</h1>
-              <div
-                className="post-content"
-                dangerouslySetInnerHTML={{ __html: post.html }}
-              />
+              <TextPostBody htmlAst={post.htmlAst} />
             </div>
           </div>
         </div>
@@ -33,7 +32,7 @@ export default Template;
 export const pageQuery = graphql`
   query ProjectPosts($path: String!) {
     markdownRemark(frontmatter: { path: { eq: $path } }) {
-      html
+      htmlAst
       frontmatter {
         path
         title

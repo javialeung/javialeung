@@ -5,4 +5,12 @@ title: "Reflection"
 cover: "/static/Reflection.jpeg"
 origin: "/illustration"
 ---
-![Javia - Reflection](/static/Reflection.jpeg)
+<zoom-image 
+  src='/static/Reflection.jpeg' 
+  zoomSrc='/static/Reflection.jpeg' 
+  caption='Javia - Reflection'>
+</zoom-image>
+<hidden>
+    <img src='/static/Reflection.jpeg' />
+    <img src='/static/Reflection.jpeg' />
+</hidden>

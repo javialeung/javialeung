@@ -1,9 +1,26 @@
 ---
 path: "/fashion-illustration/ecle-outfit"
-date: "2018-09-01"
+date: "2018-09-02"
 title: "Inspired by E:CLE"
 cover: "/static/Drawing.jpeg"
 origin: "/fashion-illustration"
 ---
-![Javia - E:CLE Outfit](/static/Drawing.jpeg)
-![Javia - E:CLE Outfit](/static/DrawingCloseup.jpeg)
+<zoom-image 
+  src='/static/Drawing.jpeg' 
+  zoomSrc='/static/Drawing.jpeg' 
+  caption='Javia - E:CLE Outfit'>
+</zoom-image>
+<hidden>
+    <img src='/static/Drawing.jpeg' />
+    <img src='/static/Drawing.jpeg' />
+</hidden>
+
+<zoom-image 
+  src='/static/DrawingCloseup.jpeg' 
+  zoomSrc='/static/DrawingCloseup.jpeg' 
+  caption='Javia - E:CLE Outfit'>
+</zoom-image>
+<hidden>
+    <img src='/static/DrawingCloseup.jpeg' />
+    <img src='/static/DrawingCloseup.jpeg' />
+</hidden>
