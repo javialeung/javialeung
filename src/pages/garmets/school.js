@@ -1,7 +1,7 @@
 import React from "react";
 import { navigateTo  } from "gatsby-link"
 
-import '../styles/post-listing.css';
+import '../../styles/post-listing.css';
 
 export default function Fashion({ data }) {
     if (data.allMarkdownRemark) {
@@ -24,7 +24,7 @@ export default function Fashion({ data }) {
     } else {
         return (
             <div className="general-content">
-                Fashion
+                Fashion - School
             </div>
         )
     }
@@ -33,7 +33,7 @@ export const pageQuery = graphql`
   query FashionQuery {
     allMarkdownRemark(
         sort: { order: DESC, fields: [frontmatter___date] },
-        filter: {fileAbsolutePath: {regex: "/(fashion)/.*\\.md$/"}}
+        filter: {fileAbsolutePath: {regex: "/(fashion-school)/.*\\.md$/"}}
     ) {
       edges {
         node {

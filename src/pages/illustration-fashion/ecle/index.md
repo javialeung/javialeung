@@ -1,9 +1,9 @@
 ---
-path: "/fashion-illustration/ecle-outfit"
+path: "/illustration/fashion/ecle-outfit"
 date: "2018-09-02"
 title: "Inspired by E:CLE"
 cover: "/static/Drawing.jpeg"
-origin: "/fashion-illustration"
+origin: "/illustration/fashion"
 ---
 <zoom-image 
   src='/static/Drawing.jpeg' 

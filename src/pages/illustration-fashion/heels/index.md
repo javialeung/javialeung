@@ -1,9 +1,9 @@
 ---
-path: "/fashion-illustration/heels"
+path: "/illustration/fashion/heels"
 date: "2018-08-01"
 title: "Jimmy Choo Heels"
 cover: "/static/Heels.jpeg"
-origin: "/fashion-illustration"
+origin: "/illustration/fashion"
 ---
 <zoom-image 
   src='/static/Heels.jpeg' 

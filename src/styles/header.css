@@ -21,7 +21,7 @@
     height: 72px;
     margin: 0;
     z-index: 101;
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
 
 .nav-title {
@@ -138,22 +138,33 @@
 
 .menu-container .menu-options {
     margin: 0 auto;
-    text-align: center;
+    text-align: left;
     height: auto;
     display: inline-block;
     vertical-align: top;
 }
 
 .menu-container .menu-options .menu-option {
-    font-size: 40px;
-    line-height: 40px;
-    height: 40px;
+    font-size: 30px;
+    line-height: 30px;
     text-decoration: none;
     color: #ffffff;
     text-transform: none;
     letter-spacing: 0;
     position: relative;
     display: block;
-    margin: 10px;
+    margin: 8px;
+}
+
+.menu-container .menu-options .menu-option .sub-menu {
+    font-size: 30px;
+    line-height: 30px;
+    text-decoration: none;
+    color: #cccccc;
+    text-transform: none;
+    letter-spacing: 0;
+    position: relative;
+    display: block;
+    margin: 8px;
 }
 

@@ -41,13 +41,25 @@ class Header extends Component {
                           <div className="table">
                               <div className="table-cell">
                                   <div className="menu-options">
-                                      <Link to="" onClick={this.handleClick} className="menu-option">Home</Link>
-                                      <Link to="/about" onClick={this.handleClick} className="menu-option">About</Link>
-                                      <Link to="/fashion" onClick={this.handleClick} className="menu-option">Fashion</Link>
-                                      <Link to="/fashion-illustration" onClick={this.handleClick} className="menu-option">Fashion Illustration</Link>
-                                      <Link to="/illustration" onClick={this.handleClick} className="menu-option">Illustration</Link>
-                                      <Link to="/styling" onClick={this.handleClick} className="menu-option">Styling</Link>
-                                      <Link to="/projects" onClick={this.handleClick} className="menu-option">Crafts / Projects</Link>
+                                      <Link to="" onClick={this.handleClick} className="menu-option">HOME</Link>
+                                      <Link to="/about" onClick={this.handleClick} className="menu-option">ABOUT</Link>
+                                      <div className="menu-option">
+                                        GARMENTS
+                                        <Link to="/garmets/school" onClick={this.handleClick} className="sub-menu">SCHOOL</Link>
+                                        <Link to="/garmets/personal" onClick={this.handleClick} className="sub-menu">PERSONAL</Link>
+                                      </div>
+                                      <div className="menu-option">
+                                        ILLUSTRATION
+                                        <Link to="/illustration/fashion" onClick={this.handleClick} className="sub-menu">FASHION</Link>
+                                        <Link to="/illustration/other" onClick={this.handleClick} className="sub-menu">OTHER</Link>
+                                      </div>                                     
+                                      <Link to="/styling" onClick={this.handleClick} className="menu-option">STYLING</Link>
+                                      <div className="menu-option">
+                                        PROJECTS
+                                        <Link to="/projects/collections" onClick={this.handleClick} className="sub-menu">COLLECTIONS</Link>
+                                        <Link to="/projects/campaigns" onClick={this.handleClick} className="sub-menu">MARKETING CAMPAIGNS</Link>
+                                      </div>
+
                                   </div>
                               </div>
                           </div>

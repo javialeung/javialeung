@@ -81,7 +81,7 @@
     right: 10px;
     background-color: #ffffff;
     z-index: 102;
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
 
 .message-us-popup-container {
@@ -102,7 +102,7 @@
     white-space: nowrap;
     display: flex;
     justify-content: space-between;
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
 
 .message-us-text {
@@ -137,7 +137,7 @@
     border: 1px solid #ccc;
     padding: 6px .5em 5px; 
     outline: 0;
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Open Sans Condensed', sans-serif;
     font-size: 16px;
 }
 
@@ -154,5 +154,5 @@
     font-size: 16px;
     margin: 0 auto;
     display: block;
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Open Sans Condensed', sans-serif;
 }

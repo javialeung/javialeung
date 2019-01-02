@@ -1,9 +1,9 @@
 ---
-path: "/fashion-illustration/valentino"
+path: "/illustration/fashion/valentino"
 date: "2018-09-01"
 title: "Modern Ballerina - Inspired by Valentino F'16"
 cover: "/static/TrenchCoat.jpeg"
-origin: "/fashion-illustration"
+origin: "/illustration/fashion"
 ---
 <zoom-image 
   src='/static/TrenchCoat(2).jpeg' 

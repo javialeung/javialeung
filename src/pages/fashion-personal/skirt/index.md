@@ -1,9 +1,9 @@
 ---
-path: "/fashion/skirt"
+path: "/garmets/personal/skirt"
 date: "2018-07-01"
 title: "Skirt"
 cover: "/static/Skirt.jpeg"
-origin: "/fashion"
+origin: "/garmets/personal"
 ---
 <zoom-image 
   src='/static/Skirt.jpeg' 

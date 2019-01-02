@@ -1,9 +1,9 @@
 import React from "react";
 import { navigateTo  } from "gatsby-link"
 
-import '../styles/post-listing.css';
+import '../../styles/post-listing.css';
 
-export default function Projects({ data }) {
+export default function Illustration({ data }) {
     if (data.allMarkdownRemark) {
         const { edges: posts } = data.allMarkdownRemark;
         return (
@@ -24,16 +24,16 @@ export default function Projects({ data }) {
     } else {
         return (
             <div className="general-content">
-                Crafts / Projects
+                Other Illustration
             </div>
         )
     }
 }
 export const pageQuery = graphql`
-  query ProjectsQuery {
+  query IllustrationQuery {
     allMarkdownRemark(
         sort: { order: DESC, fields: [frontmatter___date] },
-        filter: {fileAbsolutePath: {regex: "/(crafts)/.*\\.md$/"}}
+        filter: {fileAbsolutePath: {regex: "/(illustration-other)/.*\\.md$/"}}
     ) {
       edges {
         node {

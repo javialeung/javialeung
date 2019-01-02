@@ -1,9 +1,9 @@
 ---
-path: "/fashion/kiki-peplum"
+path: "/garmets/personal/kiki-peplum"
 date: "2018-08-01"
 title: "Kiki Peplum Top"
 cover: "/static/KikiPeplumCover.jpeg"
-origin: "/fashion"
+origin: "/garmets/personal"
 ---
 <zoom-image 
   src='/static/KikiPeplumCover.jpeg' 

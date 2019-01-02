@@ -1,9 +1,9 @@
 import React from "react";
 import { navigateTo  } from "gatsby-link"
 
-import '../styles/post-listing.css';
+import '../../styles/post-listing.css';
 
-export default function FashionIllustration({ data }) {
+export default function Campaigns({ data }) {
     if (data.allMarkdownRemark) {
         const { edges: posts } = data.allMarkdownRemark;
         return (
@@ -24,16 +24,16 @@ export default function FashionIllustration({ data }) {
     } else {
         return (
             <div className="general-content">
-                Fashion Illustration
+                Campaigns
             </div>
         )
     }
 }
 export const pageQuery = graphql`
-  query FashionIllustrationQuery {
+  query CampaignsQuery {
     allMarkdownRemark(
         sort: { order: DESC, fields: [frontmatter___date] },
-        filter: {fileAbsolutePath: {regex: "/(fashion-illustration)/.*\\.md$/"}}
+        filter: {fileAbsolutePath: {regex: "/(campaigns)/.*\\.md$/"}}
     ) {
       edges {
         node {

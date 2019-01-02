@@ -1,9 +1,9 @@
 ---
-path: "/illustratiion/reflection"
+path: "/illustration/other/reflection"
 date: "2018-07-01"
 title: "Reflection"
 cover: "/static/Reflection.jpeg"
-origin: "/illustration"
+origin: "/illustration/other"
 ---
 <zoom-image 
   src='/static/Reflection.jpeg' 
