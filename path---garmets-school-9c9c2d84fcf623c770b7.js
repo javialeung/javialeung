@@ -1,0 +1,2 @@
+webpackJsonp([0xad07999400ba],{407:function(a,e){a.exports={data:{allMarkdownRemark:{edges:[{node:{id:"C:/Users/Johnnie/Desktop/Javia/javia/src/pages/fashion-school/NebulasBlue/index.md absPath of file >>> MarkdownRemark",frontmatter:{title:"Nebulas Blue",path:"/garmets/school/folds",cover:"/static/NebulasBlue.jpeg"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---garmets-school-9c9c2d84fcf623c770b7.js.map
