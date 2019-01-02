@@ -3,7 +3,7 @@ import { navigateTo  } from "gatsby-link"
 
 import '../../styles/post-listing.css';
 
-export default function Fashion({ data }) {
+export default function FashionPersonal({ data }) {
     if (data.allMarkdownRemark) {
         const { edges: posts } = data.allMarkdownRemark;
         return (
@@ -24,16 +24,16 @@ export default function Fashion({ data }) {
     } else {
         return (
             <div className="general-content">
-                Garmets - School
+                Garments - Personal
             </div>
         )
     }
 }
 export const pageQuery = graphql`
-  query FashionQuery {
+  query FashionPersonalQuery {
     allMarkdownRemark(
         sort: { order: DESC, fields: [frontmatter___date] },
-        filter: {fileAbsolutePath: {regex: "/(fashion-school)/.*\\.md$/"}}
+        filter: {fileAbsolutePath: {regex: "/(fashion-personal)/.*\\.md$/"}}
     ) {
       edges {
         node {

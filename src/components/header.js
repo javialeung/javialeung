@@ -45,8 +45,8 @@ class Header extends Component {
                                       <Link to="/about" onClick={this.handleClick} className="menu-option">ABOUT</Link>
                                       <div className="menu-option">
                                         GARMENTS
-                                        <Link to="/garmets/school" onClick={this.handleClick} className="sub-menu">SCHOOL</Link>
-                                        <Link to="/garmets/personal" onClick={this.handleClick} className="sub-menu">PERSONAL</Link>
+                                        <Link to="/garments/school" onClick={this.handleClick} className="sub-menu">SCHOOL</Link>
+                                        <Link to="/garments/personal" onClick={this.handleClick} className="sub-menu">PERSONAL</Link>
                                       </div>
                                       <div className="menu-option">
                                         ILLUSTRATION
