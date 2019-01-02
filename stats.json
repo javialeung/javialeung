@@ -1,5 +1,9 @@
 {
   "assetsByChunkName": {
+    "path---garments-school": [
+      "path---garments-school-582b2c50ebd5157dd0c7.js",
+      "path---garments-school-582b2c50ebd5157dd0c7.js.map"
+    ],
     "path---projects-campaigns": [
       "path---projects-campaigns-3fe0d2c3956bf4e47f7e.js",
       "path---projects-campaigns-3fe0d2c3956bf4e47f7e.js.map"
@@ -7,6 +11,10 @@
     "path---projects-collections": [
       "path---projects-collections-33101372659a9c55b430.js",
       "path---projects-collections-33101372659a9c55b430.js.map"
+    ],
+    "component---src-pages-garments-personal-js": [
+      "component---src-pages-garments-personal-js-6b2b001f41e18570c682.js",
+      "component---src-pages-garments-personal-js-6b2b001f41e18570c682.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-bf478a5eaf78e798ecaa.js",
@@ -19,10 +27,6 @@
     "path---": [
       "path----0e9317950f6579768d48.js",
       "path----0e9317950f6579768d48.js.map"
-    ],
-    "path---garmets-personal": [
-      "path---garmets-personal-bf381a83b7dfd4998ad8.js",
-      "path---garmets-personal-bf381a83b7dfd4998ad8.js.map"
     ],
     "path---illustration-fashion-heels": [
       "path---illustration-fashion-heels-5958c84174ea790ef875.js",
@@ -64,6 +68,10 @@
       "path---garmets-personal-kiki-peplum-03ff0c4db680bc7e1a3d.js",
       "path---garmets-personal-kiki-peplum-03ff0c4db680bc7e1a3d.js.map"
     ],
+    "path---garments-personal": [
+      "path---garments-personal-bf381a83b7dfd4998ad8.js",
+      "path---garments-personal-bf381a83b7dfd4998ad8.js.map"
+    ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
@@ -81,6 +89,10 @@
       "build-js-styles.css",
       "commons-6fc976e1ce200225df4c.js.map",
       "build-js-styles.css.map"
+    ],
+    "component---src-pages-garments-school-js": [
+      "component---src-pages-garments-school-js-67b53a2bb3f0d50777c3.js",
+      "component---src-pages-garments-school-js-67b53a2bb3f0d50777c3.js.map"
     ],
     "component---src-pages-illustration-fashion-js": [
       "component---src-pages-illustration-fashion-js-18a084b255688e1d5456.js",
@@ -102,10 +114,6 @@
       "path---projects-campaigns-john-fluevog-24ca369831c868cb36ae.js",
       "path---projects-campaigns-john-fluevog-24ca369831c868cb36ae.js.map"
     ],
-    "path---garmets-school": [
-      "path---garmets-school-582b2c50ebd5157dd0c7.js",
-      "path---garmets-school-582b2c50ebd5157dd0c7.js.map"
-    ],
     "component---src-templates-post-template-js": [
       "component---src-templates-post-template-js-cbbedcb4de1c15de49e3.js",
       "component---src-templates-post-template-js-cbbedcb4de1c15de49e3.js.map"
@@ -126,19 +134,11 @@
       "path---garmets-personal-skirt-cb27e854888cfa0417bf.js",
       "path---garmets-personal-skirt-cb27e854888cfa0417bf.js.map"
     ],
-    "component---src-pages-garmets-personal-js": [
-      "component---src-pages-garmets-personal-js-6b2b001f41e18570c682.js",
-      "component---src-pages-garmets-personal-js-6b2b001f41e18570c682.js.map"
-    ],
     "app": [
-      "app-47d0ed4f09de00a7bc6a.js",
+      "app-d61cc2bcf43feb7c4fed.js",
       "build-js-styles.css",
-      "app-47d0ed4f09de00a7bc6a.js.map",
+      "app-d61cc2bcf43feb7c4fed.js.map",
       "build-js-styles.css.map"
-    ],
-    "component---src-pages-garmets-school-js": [
-      "component---src-pages-garmets-school-js-67b53a2bb3f0d50777c3.js",
-      "component---src-pages-garmets-school-js-67b53a2bb3f0d50777c3.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
