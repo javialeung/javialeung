@@ -24,7 +24,7 @@ export default function Fashion({ data }) {
     } else {
         return (
             <div className="general-content">
-                Fashion - School
+                Garmets - School
             </div>
         )
     }

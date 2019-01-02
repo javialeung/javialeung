@@ -1,14 +1,14 @@
 ---
-path: "/garmets/school/folds"
+path: "/styling/philip-treacy"
 date: "2018-11-01"
-title: "Nebulas Blue"
+title: "Philip Treacy Inspired Hat"
 cover: "/static/NebulasBlue.jpeg"
-origin: "/garmets/school"
+origin: "/styling"
 ---
 <zoom-image 
   src='/static/NebulasBlue.jpeg' 
   zoomSrc='/static/NebulasBlue.jpeg' 
-  caption='Javia - Nebulas Blue'>
+  caption='Javia - Philip Treacy'>
 </zoom-image>
 <hidden>
     <img src='/static/NebulasBlue.jpeg' />
@@ -18,7 +18,7 @@ origin: "/garmets/school"
 <zoom-image 
   src='/static/NebulasBlue2.jpeg' 
   zoomSrc='/static/NebulasBlue2.jpeg' 
-  caption='Javia - Nebulas Blue'>
+  caption='Javia - Philip Treacy'>
 </zoom-image>
 <hidden>
     <img src='/static/NebulasBlue2.jpeg' />
