@@ -1,2 +1,2 @@
-webpackJsonp([93898978720690],{413:function(e,t){e.exports={data:{allMarkdownRemark:{edges:[{node:{id:"C:/Users/Johnnie/Desktop/Javia/javia/src/pages/illustration-other/reflection/index.md absPath of file >>> MarkdownRemark",frontmatter:{title:"Reflection",path:"/illustration/other/reflection",cover:"/static/Reflection.jpeg"}}}]}},pathContext:{}}}});
+webpackJsonp([93898978720690],{412:function(e,t){e.exports={data:{allMarkdownRemark:{edges:[{node:{id:"C:/Users/Johnnie/Desktop/Javia/javia/src/pages/illustration-other/reflection/index.md absPath of file >>> MarkdownRemark",frontmatter:{title:"Reflection",path:"/illustration/other/reflection",cover:"/static/Reflection.jpeg"}}}]}},pathContext:{}}}});
 //# sourceMappingURL=path---illustration-other-511311ef21fc3d6caeb1.js.map

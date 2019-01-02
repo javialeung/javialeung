@@ -1,2 +1,2 @@
-webpackJsonp([6744790679162],{416:function(a,e){a.exports={data:{allMarkdownRemark:{edges:[{node:{id:"C:/Users/Johnnie/Desktop/Javia/javia/src/pages/campaigns/johnfluevog/index.md absPath of file >>> MarkdownRemark",frontmatter:{title:"John Fluevog",path:"/projects/campaigns/john-fluevog",cover:"/static/JohnFluevog1.jpeg"}}}]}},pathContext:{}}}});
+webpackJsonp([6744790679162],{415:function(a,e){a.exports={data:{allMarkdownRemark:{edges:[{node:{id:"C:/Users/Johnnie/Desktop/Javia/javia/src/pages/campaigns/johnfluevog/index.md absPath of file >>> MarkdownRemark",frontmatter:{title:"John Fluevog",path:"/projects/campaigns/john-fluevog",cover:"/static/JohnFluevog1.jpeg"}}}]}},pathContext:{}}}});
 //# sourceMappingURL=path---projects-campaigns-3fe0d2c3956bf4e47f7e.js.map

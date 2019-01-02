@@ -4,10 +4,6 @@
       "path---projects-campaigns-3fe0d2c3956bf4e47f7e.js",
       "path---projects-campaigns-3fe0d2c3956bf4e47f7e.js.map"
     ],
-    "path---garmets-school-folds": [
-      "path---garmets-school-folds-f3ab9735d8199a44a8e5.js",
-      "path---garmets-school-folds-f3ab9735d8199a44a8e5.js.map"
-    ],
     "path---projects-collections": [
       "path---projects-collections-33101372659a9c55b430.js",
       "path---projects-collections-33101372659a9c55b430.js.map"
@@ -41,8 +37,8 @@
       "path---projects-totoro-eefdcd03101b80f6baeb.js.map"
     ],
     "path---styling": [
-      "path---styling-bf941363f903540d000e.js",
-      "path---styling-bf941363f903540d000e.js.map"
+      "path---styling-559dca29bd72554426a5.js",
+      "path---styling-559dca29bd72554426a5.js.map"
     ],
     "path---illustration-other": [
       "path---illustration-other-511311ef21fc3d6caeb1.js",
@@ -107,8 +103,8 @@
       "path---projects-campaigns-john-fluevog-24ca369831c868cb36ae.js.map"
     ],
     "path---garmets-school": [
-      "path---garmets-school-9c9c2d84fcf623c770b7.js",
-      "path---garmets-school-9c9c2d84fcf623c770b7.js.map"
+      "path---garmets-school-582b2c50ebd5157dd0c7.js",
+      "path---garmets-school-582b2c50ebd5157dd0c7.js.map"
     ],
     "component---src-templates-post-template-js": [
       "component---src-templates-post-template-js-cbbedcb4de1c15de49e3.js",
@@ -117,6 +113,10 @@
     "path---illustration-other-reflection": [
       "path---illustration-other-reflection-7de11c9449c5b3fcc024.js",
       "path---illustration-other-reflection-7de11c9449c5b3fcc024.js.map"
+    ],
+    "path---styling-philip-treacy": [
+      "path---styling-philip-treacy-8c1d45979f2a6018a7fd.js",
+      "path---styling-philip-treacy-8c1d45979f2a6018a7fd.js.map"
     ],
     "component---src-pages-styling-js": [
       "component---src-pages-styling-js-45596ca66a581d09af51.js",
@@ -127,18 +127,18 @@
       "path---garmets-personal-skirt-cb27e854888cfa0417bf.js.map"
     ],
     "component---src-pages-garmets-personal-js": [
-      "component---src-pages-garmets-personal-js-cf4b47bb5c4bb6699f75.js",
-      "component---src-pages-garmets-personal-js-cf4b47bb5c4bb6699f75.js.map"
+      "component---src-pages-garmets-personal-js-b6a1fc11d0badb54ace2.js",
+      "component---src-pages-garmets-personal-js-b6a1fc11d0badb54ace2.js.map"
     ],
     "app": [
-      "app-e54380e433f10960f351.js",
+      "app-47d0ed4f09de00a7bc6a.js",
       "build-js-styles.css",
-      "app-e54380e433f10960f351.js.map",
+      "app-47d0ed4f09de00a7bc6a.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-garmets-school-js": [
-      "component---src-pages-garmets-school-js-eab56c65006df5b5802a.js",
-      "component---src-pages-garmets-school-js-eab56c65006df5b5802a.js.map"
+      "component---src-pages-garmets-school-js-f2a358a3b674aa30f27e.js",
+      "component---src-pages-garmets-school-js-f2a358a3b674aa30f27e.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
