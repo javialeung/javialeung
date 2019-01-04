@@ -18,7 +18,15 @@ module.exports = {
       options: {
         plugins: ["gatsby-remark-component"]
       }
-    }
-    
+    },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-131761988-1",
+        head: true,
+        anonymize: true,
+        respectDNT: true
+      },
+    },
   ],
 }
