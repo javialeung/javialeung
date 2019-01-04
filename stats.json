@@ -12,6 +12,10 @@
       "path---projects-collections-33101372659a9c55b430.js",
       "path---projects-collections-33101372659a9c55b430.js.map"
     ],
+    "path---garments-personal-skirt": [
+      "path---garments-personal-skirt-180612241b0a77925acf.js",
+      "path---garments-personal-skirt-180612241b0a77925acf.js.map"
+    ],
     "component---src-pages-garments-personal-js": [
       "component---src-pages-garments-personal-js-6b2b001f41e18570c682.js",
       "component---src-pages-garments-personal-js-6b2b001f41e18570c682.js.map"
@@ -27,6 +31,10 @@
     "path---": [
       "path----0e9317950f6579768d48.js",
       "path----0e9317950f6579768d48.js.map"
+    ],
+    "path---garments-personal-kiki-peplum": [
+      "path---garments-personal-kiki-peplum-069c0ea23f64fd2c97e3.js",
+      "path---garments-personal-kiki-peplum-069c0ea23f64fd2c97e3.js.map"
     ],
     "path---illustration-fashion-heels": [
       "path---illustration-fashion-heels-5958c84174ea790ef875.js",
@@ -64,13 +72,9 @@
       "component---src-pages-projects-collections-js-fe41faee465ad0880399.js",
       "component---src-pages-projects-collections-js-fe41faee465ad0880399.js.map"
     ],
-    "path---garmets-personal-kiki-peplum": [
-      "path---garmets-personal-kiki-peplum-03ff0c4db680bc7e1a3d.js",
-      "path---garmets-personal-kiki-peplum-03ff0c4db680bc7e1a3d.js.map"
-    ],
     "path---garments-personal": [
-      "path---garments-personal-bf381a83b7dfd4998ad8.js",
-      "path---garments-personal-bf381a83b7dfd4998ad8.js.map"
+      "path---garments-personal-40ec80607ebc1c523cec.js",
+      "path---garments-personal-40ec80607ebc1c523cec.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -130,14 +134,10 @@
       "component---src-pages-styling-js-45596ca66a581d09af51.js",
       "component---src-pages-styling-js-45596ca66a581d09af51.js.map"
     ],
-    "path---garmets-personal-skirt": [
-      "path---garmets-personal-skirt-cb27e854888cfa0417bf.js",
-      "path---garmets-personal-skirt-cb27e854888cfa0417bf.js.map"
-    ],
     "app": [
-      "app-d61cc2bcf43feb7c4fed.js",
+      "app-232ceb892e2a04402fc9.js",
       "build-js-styles.css",
-      "app-d61cc2bcf43feb7c4fed.js.map",
+      "app-232ceb892e2a04402fc9.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
