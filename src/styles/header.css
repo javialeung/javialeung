@@ -137,8 +137,8 @@
 
 .menu-container .menu-options {
     margin: 0 auto;
-    text-align: left;
-    height: auto;
+    text-align: center;
+    height: 300px;
     display: inline-block;
     vertical-align: top;
 }
@@ -153,6 +153,7 @@
     position: relative;
     display: block;
     margin: 8px;
+    cursor: pointer;
 }
 
 .menu-container .menu-options .menu-option .sub-menu {
@@ -167,3 +168,16 @@
     margin: 8px;
 }
 
+.menu-container .menu-options .menu-option-hidden {
+    display: none;
+    position:absolute;
+}
+
+.sub-enter {
+    opacity: 0;
+}
+
+.sub-enter.sub-enter-active {
+    opacity: 1;
+    transition: all cubic-bezier(.18,1,.21,1) 2s;
+}
