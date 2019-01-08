@@ -21,8 +21,8 @@
       "component---src-pages-garments-personal-js-6b2b001f41e18570c682.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-bf478a5eaf78e798ecaa.js",
-      "component---src-pages-index-js-bf478a5eaf78e798ecaa.js.map"
+      "component---src-pages-index-js-7b2ecf352d38d8d09035.js",
+      "component---src-pages-index-js-7b2ecf352d38d8d09035.js.map"
     ],
     "path---projects-collections-serenity": [
       "path---projects-collections-serenity-7a5577bf60da11f450d9.js",
@@ -65,8 +65,8 @@
       "path---projects-collections-folds-ec791280309177f3f22a.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-89901f809527fdd45738.js",
-      "component---src-layouts-index-js-89901f809527fdd45738.js.map"
+      "component---src-layouts-index-js-8ca2f68aa550946283b1.js",
+      "component---src-layouts-index-js-8ca2f68aa550946283b1.js.map"
     ],
     "component---src-pages-projects-collections-js": [
       "component---src-pages-projects-collections-js-fe41faee465ad0880399.js",
@@ -89,9 +89,9 @@
       "component---src-pages-404-js-de61313b2a99b9ee78c7.js.map"
     ],
     "commons": [
-      "commons-6fc976e1ce200225df4c.js",
+      "commons-fe307801d75c9f0a9f1a.js",
       "build-js-styles.css",
-      "commons-6fc976e1ce200225df4c.js.map",
+      "commons-fe307801d75c9f0a9f1a.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-garments-school-js": [
