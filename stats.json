@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---garments-school": [
-      "path---garments-school-582b2c50ebd5157dd0c7.js",
-      "path---garments-school-582b2c50ebd5157dd0c7.js.map"
+      "path---garments-school-1f4ac8b15a8f16306562.js",
+      "path---garments-school-1f4ac8b15a8f16306562.js.map"
     ],
     "path---projects-campaigns": [
       "path---projects-campaigns-3fe0d2c3956bf4e47f7e.js",
@@ -73,12 +73,16 @@
       "component---src-pages-projects-collections-js-fe41faee465ad0880399.js.map"
     ],
     "path---garments-personal": [
-      "path---garments-personal-40ec80607ebc1c523cec.js",
-      "path---garments-personal-40ec80607ebc1c523cec.js.map"
+      "path---garments-personal-f25d2f7ffc2c12877b38.js",
+      "path---garments-personal-f25d2f7ffc2c12877b38.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---garments-school-wool-pants": [
+      "path---garments-school-wool-pants-917561b7a910b572da85.js",
+      "path---garments-school-wool-pants-917561b7a910b572da85.js.map"
     ],
     "component---src-pages-illustration-other-js": [
       "component---src-pages-illustration-other-js-be52467465293205ef23.js",
@@ -130,14 +134,22 @@
       "path---styling-philip-treacy-8c1d45979f2a6018a7fd.js",
       "path---styling-philip-treacy-8c1d45979f2a6018a7fd.js.map"
     ],
+    "path---garments-personal-wool-pants": [
+      "path---garments-personal-wool-pants-922a383ef606189d9c4f.js",
+      "path---garments-personal-wool-pants-922a383ef606189d9c4f.js.map"
+    ],
     "component---src-pages-styling-js": [
       "component---src-pages-styling-js-45596ca66a581d09af51.js",
       "component---src-pages-styling-js-45596ca66a581d09af51.js.map"
     ],
+    "path---garments-school-petal-wool-coat": [
+      "path---garments-school-petal-wool-coat-ffe07d6150ad3ad1d7f5.js",
+      "path---garments-school-petal-wool-coat-ffe07d6150ad3ad1d7f5.js.map"
+    ],
     "app": [
-      "app-cc207607fc8e937ddce9.js",
+      "app-a8e386bd1a0a25aeef21.js",
       "build-js-styles.css",
-      "app-cc207607fc8e937ddce9.js.map",
+      "app-a8e386bd1a0a25aeef21.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
