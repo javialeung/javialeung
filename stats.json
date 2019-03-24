@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---garments-school": [
-      "path---garments-school-d539ae601de1a99d2864.js",
-      "path---garments-school-d539ae601de1a99d2864.js.map"
+      "path---garments-school-c866df16b640d49dc23f.js",
+      "path---garments-school-c866df16b640d49dc23f.js.map"
     ],
     "path---projects-campaigns": [
       "path---projects-campaigns-3fe0d2c3956bf4e47f7e.js",
@@ -143,10 +143,14 @@
       "component---src-pages-styling-js-45596ca66a581d09af51.js.map"
     ],
     "app": [
-      "app-81b18a4b2ff62756498d.js",
+      "app-0ae5c0e41da18708db95.js",
       "build-js-styles.css",
-      "app-81b18a4b2ff62756498d.js.map",
+      "app-0ae5c0e41da18708db95.js.map",
       "build-js-styles.css.map"
+    ],
+    "path---garments-school-pleated-mint-dress": [
+      "path---garments-school-pleated-mint-dress-44af0ee4e80a9dcce256.js",
+      "path---garments-school-pleated-mint-dress-44af0ee4e80a9dcce256.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
