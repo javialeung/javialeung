@@ -179,5 +179,5 @@
 
 .sub-enter.sub-enter-active {
     opacity: 1;
-    transition: all cubic-bezier(.18,1,.21,1) 2s;
+    transition: all cubic-bezier(.18,1,.21,1) 1s;
 }

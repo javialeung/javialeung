@@ -56,7 +56,7 @@ class Header extends Component {
                                         <CSSTransition
                                             in={this.state.category === 'garments'}
                                             classNames="sub"
-                                            timeout={2000}>
+                                            timeout={1000}>
                                             <div className={this.state.category === 'garments' ? "menu-option" : "menu-option menu-option-hidden"}>
                                                 <Link to="/garments/school" onClick={this.handleClick} className="sub-menu">SCHOOL</Link>
                                                 <Link to="/garments/personal" onClick={this.handleClick} className="sub-menu">PERSONAL</Link>
@@ -68,7 +68,7 @@ class Header extends Component {
                                         <CSSTransition
                                             in={this.state.category === 'illustration'}
                                             classNames="sub"
-                                            timeout={2000}>
+                                            timeout={1000}>
                                             <div className={this.state.category === 'illustration' ? "menu-option" : "menu-option menu-option-hidden"}>
                                                 <Link to="/illustration/fashion" onClick={this.handleClick} className="sub-menu">FASHION</Link>
                                                 <Link to="/illustration/other" onClick={this.handleClick} className="sub-menu">OTHER</Link>
@@ -81,7 +81,7 @@ class Header extends Component {
                                         <CSSTransition
                                             in={this.state.category === 'projects'}
                                             classNames="sub"
-                                            timeout={2000}>
+                                            timeout={1000}>
                                             <div className={this.state.category === 'projects' ? "menu-option" : "menu-option menu-option-hidden"}>
                                                 <Link to="/projects/collections" onClick={this.handleClick} className="sub-menu">COLLECTIONS</Link>
                                                 <Link to="/projects/campaigns" onClick={this.handleClick} className="sub-menu">MARKETING CAMPAIGNS</Link>
