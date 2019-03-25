@@ -16,10 +16,6 @@
       "path---projects-collections-33101372659a9c55b430.js",
       "path---projects-collections-33101372659a9c55b430.js.map"
     ],
-    "path---garments-personal-skirt": [
-      "path---garments-personal-skirt-a272cb872f0a4f4bfc0c.js",
-      "path---garments-personal-skirt-a272cb872f0a4f4bfc0c.js.map"
-    ],
     "component---src-pages-garments-personal-js": [
       "component---src-pages-garments-personal-js-6b2b001f41e18570c682.js",
       "component---src-pages-garments-personal-js-6b2b001f41e18570c682.js.map"
@@ -77,8 +73,8 @@
       "component---src-pages-projects-collections-js-fe41faee465ad0880399.js.map"
     ],
     "path---garments-personal": [
-      "path---garments-personal-15a4501704696fe6decd.js",
-      "path---garments-personal-15a4501704696fe6decd.js.map"
+      "path---garments-personal-4af1e5914a6657108337.js",
+      "path---garments-personal-4af1e5914a6657108337.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -143,10 +139,14 @@
       "component---src-pages-styling-js-45596ca66a581d09af51.js.map"
     ],
     "app": [
-      "app-a4cbf086599fadb2ea59.js",
+      "app-a0ea4261509ee2dd6905.js",
       "build-js-styles.css",
-      "app-a4cbf086599fadb2ea59.js.map",
+      "app-a0ea4261509ee2dd6905.js.map",
       "build-js-styles.css.map"
+    ],
+    "path---garments-personal-origami-skirt": [
+      "path---garments-personal-origami-skirt-2d39cbe072a66aa1b61c.js",
+      "path---garments-personal-origami-skirt-2d39cbe072a66aa1b61c.js.map"
     ],
     "path---garments-school-pleated-mint-dress": [
       "path---garments-school-pleated-mint-dress-44af0ee4e80a9dcce256.js",
