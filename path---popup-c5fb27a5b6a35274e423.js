@@ -1,2 +1,2 @@
-webpackJsonp([0xc36efa8d9984],{437:function(a,p){a.exports={data:{allMarkdownRemark:{edges:[{node:{id:"C:/Users/Johnnie/Desktop/Javia/javia/src/pages/popup/LaSallePopup/index.md absPath of file >>> MarkdownRemark",frontmatter:{title:"LaSalle Popup",path:"/popup/lasalle-popup",cover:"/static/Popup2.jpeg"}}}]}},pathContext:{}}}});
+webpackJsonp([0xc36efa8d9984],{440:function(a,p){a.exports={data:{allMarkdownRemark:{edges:[{node:{id:"C:/Users/Johnnie/Desktop/Javia/javia/src/pages/popup/LaSallePopup/index.md absPath of file >>> MarkdownRemark",frontmatter:{title:"LaSalle Popup",path:"/popup/lasalle-popup",cover:"/static/Popup2.jpeg"}}}]}},pathContext:{}}}});
 //# sourceMappingURL=path---popup-c5fb27a5b6a35274e423.js.map
