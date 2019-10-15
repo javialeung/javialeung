@@ -51,7 +51,7 @@ class Header extends Component {
                                         <Link to="" onClick={this.handleClick} className="menu-option">HOME</Link>
                                         <Link to="/about" onClick={this.handleClick} className="menu-option">ABOUT</Link>
                                         <div className="menu-option" onClick={() => this.categoryClick('garments')}>
-                                            GARMENTS
+                                            GARMENTS {this.state.category === 'garments' ? '-' : '+'}
                                         </div>
                                         <CSSTransition
                                             in={this.state.category === 'garments'}
@@ -63,7 +63,7 @@ class Header extends Component {
                                             </div>
                                         </CSSTransition>
                                         <div className="menu-option" onClick={() => this.categoryClick('illustration')}>
-                                            ILLUSTRATION
+                                            ILLUSTRATION {this.state.category === 'illustration' ? '-' : '+'}
                                         </div>
                                         <CSSTransition
                                             in={this.state.category === 'illustration'}
@@ -76,7 +76,7 @@ class Header extends Component {
                                         </CSSTransition>
                                         <Link to="/styling" onClick={this.handleClick} className="menu-option">STYLING</Link>
                                         <div className="menu-option" onClick={() => this.categoryClick('projects')}>
-                                            PROJECTS
+                                            PROJECTS {this.state.category === 'projects' ? '-' : '+'}
                                         </div>
                                         <CSSTransition
                                             in={this.state.category === 'projects'}
@@ -87,6 +87,7 @@ class Header extends Component {
                                                 <Link to="/projects/campaigns" onClick={this.handleClick} className="sub-menu">MARKETING CAMPAIGNS</Link>
                                             </div>
                                         </CSSTransition>
+                                        <Link to="/popup" onClick={this.handleClick} className="menu-option">POPUP</Link>
                                     </div>
                                 </div>
                             </div>

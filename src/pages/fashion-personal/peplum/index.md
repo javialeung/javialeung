@@ -5,6 +5,8 @@ title: "Kiki Peplum Top"
 cover: "/static/KikiPeplumCover.jpeg"
 origin: "/garments/personal"
 ---
+<div className="post-content">
+<div className="content-image">
 <zoom-image 
   src='/static/KikiPeplumCover.jpeg' 
   zoomSrc='/static/KikiPeplumCover.jpeg' 
@@ -114,3 +116,9 @@ origin: "/garments/personal"
     <img src='/static/KikiPeplumModel(2).jpeg' />
     <img src='/static/KikiPeplumModel(2).jpeg' />
 </hidden>
+</div>
+<div className="content-body">
+
+The sleeveless v-neck satin blouse features a reversible tie that can be tied at the front or the back. I was inspired by the big bow that the main character, Kiki, wore in the famous Studio Ghibli film, Kiki’s Delivery Service (1989).  I designed a subtle peplum at the waist to create a slimming effect for the top, making it very flattering on the body. 
+</div>
+</div>

@@ -5,6 +5,8 @@ title: "Pleated Mint Summer Dress"
 cover: "/static/PleatedMintSummerDress.jpeg"
 origin: "/garments/school"
 ---
+<div className="post-content">
+<div className="content-image">
 <zoom-image 
   src='/static/PleatedMintSummerDress.jpeg' 
   zoomSrc='/static/PleatedMintSummerDress.jpeg' 
@@ -14,3 +16,5 @@ origin: "/garments/school"
     <img src='/static/PleatedMintSummerDress.jpeg' />
     <img src='/static/PleatedMintSummerDress.jpeg' />
 </hidden>
+</div>
+</div>

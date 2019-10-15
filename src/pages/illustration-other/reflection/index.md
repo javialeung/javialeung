@@ -5,6 +5,8 @@ title: "Reflection"
 cover: "/static/Reflection.jpeg"
 origin: "/illustration/other"
 ---
+<div className="post-content">
+<div className="content-image">
 <zoom-image 
   src='/static/Reflection.jpeg' 
   zoomSrc='/static/Reflection.jpeg' 
@@ -14,3 +16,5 @@ origin: "/illustration/other"
     <img src='/static/Reflection.jpeg' />
     <img src='/static/Reflection.jpeg' />
 </hidden>
+</div>
+</div>

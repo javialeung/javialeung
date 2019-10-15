@@ -5,6 +5,8 @@ title: "Modern Ballerina - Inspired by Valentino F'16"
 cover: "/static/TrenchCoat.jpeg"
 origin: "/illustration/fashion"
 ---
+<div className="post-content">
+<div className="content-image">
 <zoom-image 
   src='/static/TrenchCoat(2).jpeg' 
   zoomSrc='/static/TrenchCoat(2).jpeg' 
@@ -44,3 +46,5 @@ origin: "/illustration/fashion"
     <img src='/static/Dress(2).jpeg' />
     <img src='/static/Dress(2).jpeg' />
 </hidden>
+</div>
+</div>

@@ -5,6 +5,8 @@ title: "Jimmy Choo Heels"
 cover: "/static/Heels.jpeg"
 origin: "/illustration/fashion"
 ---
+<div className="post-content">
+<div className="content-image">
 <zoom-image 
   src='/static/Heels.jpeg' 
   zoomSrc='/static/Heels.jpeg' 
@@ -24,3 +26,5 @@ origin: "/illustration/fashion"
     <img src='/static/Heels(2).jpeg' />
     <img src='/static/Heels(2).jpeg' />
 </hidden>
+</div>
+</div>

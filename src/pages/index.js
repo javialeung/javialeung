@@ -13,6 +13,7 @@ class Home extends Component {
     }
 
     componentDidMount() {
+        console.log("Website developed by Johnnie Lai")
         this.timer = setTimeout(() => {
             this.hideText()
         }, 2000);
@@ -49,7 +50,7 @@ class Home extends Component {
                     in={this.state.textActive}
                     classNames="main-text"
                     timeout={2000}>
-                    <div>
+                    <div className="main-text">
                         Aspiring apparel designer from beautiful Vancouver, BC.
                     </div>
                 </CSSTransition>
@@ -63,7 +64,7 @@ class Home extends Component {
                             <img className="image-one" src='/static/Home1.jpeg' />
                         </div>
                         <div className="row-two">
-                            <img className="image-two" src='/static/Home2.jpeg' />
+                            <img className="image-two" src='/static/PetalWoolCoat4.jpeg' />
                         </div>
                         </div>
                     </div>

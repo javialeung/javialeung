@@ -5,6 +5,8 @@ title: "Inspired by E:CLE"
 cover: "/static/Drawing.jpeg"
 origin: "/illustration/fashion"
 ---
+<div className="post-content">
+<div className="content-image">
 <zoom-image 
   src='/static/Drawing.jpeg' 
   zoomSrc='/static/Drawing.jpeg' 
@@ -24,3 +26,5 @@ origin: "/illustration/fashion"
     <img src='/static/DrawingCloseup.jpeg' />
     <img src='/static/DrawingCloseup.jpeg' />
 </hidden>
+</div>
+</div>

@@ -5,6 +5,8 @@ title: "Folds"
 cover: "/static/Folds1.jpeg"
 origin: "/projects/collections"
 ---
+<div className="post-content">
+<div className="content-image">
 <zoom-image 
   src='/static/Folds1.jpeg' 
   zoomSrc='/static/Folds1.jpeg' 
@@ -24,3 +26,5 @@ origin: "/projects/collections"
     <img src='/static/Folds2.jpeg' />
     <img src='/static/Folds2.jpeg' />
 </hidden>
+</div>
+</div>

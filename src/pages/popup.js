@@ -1,9 +1,9 @@
 import React from "react";
 import { navigateTo } from "gatsby-link"
 
-import '../../styles/post-listing.css';
+import '../styles/post-listing.css';
 
-export default function Campaigns({ data }) {
+export default function FashionPersonal({ data }) {
   if (data.allMarkdownRemark) {
     const { edges: posts } = data.allMarkdownRemark;
     return (
@@ -26,16 +26,16 @@ export default function Campaigns({ data }) {
   } else {
     return (
       <div className="general-content">
-        Campaigns
+        Popup
             </div>
     )
   }
 }
 export const pageQuery = graphql`
-  query CampaignsQuery {
+  query PopupQuery {
     allMarkdownRemark(
         sort: { order: DESC, fields: [frontmatter___date] },
-        filter: {fileAbsolutePath: {regex: "/(campaigns)/.*\\.md$/"}}
+        filter: {fileAbsolutePath: {regex: "/(popup)/.*\\.md$/"}}
     ) {
       edges {
         node {

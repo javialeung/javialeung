@@ -13,15 +13,21 @@
 .content-body {
   font-size: 20px;
   padding: 10px;
+  flex: 2;
+}
+
+.content-text {
+  position: fixed;
+  margin: 0 40px;
+  padding: 20px;
 }
 
 .content-image {
-  float: left;
+  flex: 1;
   object-fit: cover;
   height: 300px;
   max-width: 100%;
   margin-right: 50px;
-  margin-bottom: 20px;
 }
 
 .home-content,

@@ -17,7 +17,7 @@ const renderAst = new rehypeReact({
 
 class TextPostBody extends Component {
   render() {
-    return <div className="post-content">{renderAst(this.props.htmlAst)}</div>
+    return <div>{renderAst(this.props.htmlAst)}</div>
   }
 }
 

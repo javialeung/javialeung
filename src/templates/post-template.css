@@ -10,14 +10,28 @@
 }
 
 .wrapper {
+    height: 100%;
+    flex-wrap:wrap;
+    display: flex;
+    align-items: center;
     padding: 20px;
     margin: 0 40px;
     font-family: 'Open Sans Condensed', sans-serif;
+    min-width: 200px;
 }
 
-.post-content > p {
+.post-container {
+    width: 100%;
+}
+
+.post-content {
+    display: flex;
+}
+
+.post-content > div > p {
     display: flex;
     flex-direction: column;
+    font-size: 20px;
 }
 
 .post-content img {

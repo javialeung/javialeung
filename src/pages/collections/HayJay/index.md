@@ -5,6 +5,8 @@ title: "Hay Jay"
 cover: "/static/HJ1.jpeg"
 origin: "/projects/collections"
 ---
+<div className="post-content">
+<div className="content-image">
 <zoom-image 
   src='/static/HJ1.jpeg' 
   zoomSrc='/static/HJ1.jpeg' 
@@ -84,3 +86,5 @@ origin: "/projects/collections"
     <img src='/static/HJ8.jpeg' />
     <img src='/static/HJ8.jpeg' />
 </hidden>
+</div>
+</div>

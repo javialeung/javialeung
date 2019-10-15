@@ -5,6 +5,8 @@ title: "Serenity"
 cover: "/static/S1.jpeg"
 origin: "/projects/collections"
 ---
+<div className="post-content">
+<div className="content-image">
 <zoom-image 
   src='/static/S1.jpeg' 
   zoomSrc='/static/S1.jpeg' 
@@ -74,3 +76,5 @@ origin: "/projects/collections"
     <img src='/static/S7.jpeg' />
     <img src='/static/S7.jpeg' />
 </hidden>
+</div>
+</div>

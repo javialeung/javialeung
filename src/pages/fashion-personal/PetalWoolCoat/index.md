@@ -2,9 +2,11 @@
 path: "/garments/personal/petal-wool-coat"
 date: "2018-09-01"
 title: "Petal Wool Coat"
-cover: "/static/PetalWoolCoat.jpeg"
+cover: "/static/PetalWoolCoatCover.jpeg"
 origin: "/garments/personal"
 ---
+<div className="post-content">
+<div className="content-image">
 <zoom-image 
   src='/static/PetalWoolCoat.jpeg' 
   zoomSrc='/static/PetalWoolCoat.jpeg' 
@@ -44,3 +46,5 @@ origin: "/garments/personal"
     <img src='/static/PetalWoolCoat4.jpeg' />
     <img src='/static/PetalWoolCoat4.jpeg' />
 </hidden>
+</div>
+</div>

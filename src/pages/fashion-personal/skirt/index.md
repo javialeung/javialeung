@@ -1,10 +1,12 @@
 ---
-path: "/garments/personal/skirt"
+path: "/garments/personal/origami-skirt"
 date: "2018-07-01"
-title: "Skirt"
-cover: "/static/Skirt.jpeg"
+title: "Origami Skirt"
+cover: "/static/SkirtCover.jpeg"
 origin: "/garments/personal"
 ---
+<div className="post-content">
+<div className="content-image">
 <zoom-image 
   src='/static/Skirt.jpeg' 
   zoomSrc='/static/Skirt.jpeg' 
@@ -44,3 +46,5 @@ origin: "/garments/personal"
     <img src='/static/Skirt(4).jpeg' />
     <img src='/static/Skirt(4).jpeg' />
 </hidden>
+</div>
+</div>

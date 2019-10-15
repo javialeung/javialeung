@@ -5,8 +5,8 @@ class ZoomImage extends Component {
   render() {
     return (
       <ImageZoom
-        defaultStyles={{ 
-          overlay: { 
+        defaultStyles={{
+          overlay: {
             backgroundColor: '#000000',
             opacity: '0.6',
           }
