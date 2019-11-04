@@ -1,0 +1,2 @@
+webpackJsonp([0xb5d63d6fffa0],{441:function(e,t){e.exports={data:{markdownRemark:{htmlAst:{type:"root",children:[],data:{quirksMode:!1}},frontmatter:{path:"/illustration/other/reflection",title:"Reflection",origin:"/illustration/other"}},allFile:{edges:[{node:{name:"Reflection",relativePath:"reflection/Reflection.jpeg"}}]}},pathContext:{imageFolder:"reflection"}}}});
+//# sourceMappingURL=path---illustration-other-reflection-86251d906fe75919fbeb.js.map

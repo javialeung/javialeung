@@ -1,0 +1,2 @@
+webpackJsonp([93898978720690],{442:function(e,t){e.exports={data:{allMarkdownRemark:{edges:[{node:{id:"C:/Users/Johnnie/Desktop/Javia/javia/src/pages/illustration-other/reflection/index.md absPath of file >>> MarkdownRemark",frontmatter:{title:"Reflection",path:"/illustration/other/reflection",cover:"/static/reflection/Reflection.jpeg"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---illustration-other-aef1e4bd3c439112ff41.js.map
