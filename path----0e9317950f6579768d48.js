@@ -1,2 +1,2 @@
-webpackJsonp([60335399758886],{116:function(t,a){t.exports={data:{site:{siteMetadata:{title:"JAVIA LEUNG",siteUrl:"https://javialeung.github.io"}}},layoutContext:{}}}});
+webpackJsonp([60335399758886],{119:function(t,a){t.exports={data:{site:{siteMetadata:{title:"JAVIA LEUNG",siteUrl:"https://javialeung.github.io"}}},layoutContext:{}}}});
 //# sourceMappingURL=path----0e9317950f6579768d48.js.map
