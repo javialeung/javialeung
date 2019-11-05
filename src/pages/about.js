@@ -5,7 +5,7 @@ class About extends Component {
         return (
             <div className="content">
                 <div className="wrapper">
-                    <img className="content-image" src="/static/Javia-Portrait.jpeg" alt="Javia Leung"></img>
+                    <img className="about-image" src="/static/Javia-Portrait.jpeg" alt="Javia Leung"></img>
                     <div className="content-body">
                         <p>
                             Javia Leung is a fashion design student currently attending LaSalle College in Vancouver BC, Canada.

@@ -9,6 +9,7 @@ import '../templates/post-template.css';
 class Template extends Component {
   render() {
     const { data } = this.props;
+    const images = data.allFile;
     const post = data.markdownRemark;
     return (
       <div className="content">
@@ -18,7 +19,7 @@ class Template extends Component {
             <Helmet title={`JAVIA LEUNG - ${post.frontmatter.title}`} />
             <div className="post">
               <h1>{post.frontmatter.title}</h1>
-              <TextPostBody htmlAst={post.htmlAst} />
+              <TextPostBody htmlAst={post.htmlAst} images={images} />
             </div>
           </div>
         </div>
@@ -30,7 +31,7 @@ class Template extends Component {
 export default Template;
 
 export const pageQuery = graphql`
-  query ProjectPosts($path: String!) {
+  query ProjectPosts($path: String!, $imageFolder: String!) {
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       htmlAst
       frontmatter {
@@ -39,5 +40,19 @@ export const pageQuery = graphql`
         origin
       }
     }
+    allFile(
+      sort: { fields: [name], order: ASC },
+      filter: {
+        extension: { regex: "/(jpg)|(png)|(tif)|(tiff)|(webp)|(jpeg)/" }
+        sourceInstanceName: { eq: "images" }
+        relativeDirectory: { eq: $imageFolder }
+      }) {
+        edges {
+          node {
+            name
+            relativePath
+          }
+        }
+      }
   }
 `;

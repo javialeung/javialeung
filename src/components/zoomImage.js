@@ -13,11 +13,9 @@ class ZoomImage extends Component {
         }}
         image={{
           src: this.props.src,
-          alt: this.props.alt || this.props.caption
         }}
         zoomImage={{
           src: this.props.zoomsrc || this.props.src,
-          alt: this.props.alt || this.props.caption
         }}
       />
     );

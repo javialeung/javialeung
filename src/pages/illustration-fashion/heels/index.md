@@ -2,29 +2,7 @@
 path: "/illustration/fashion/heels"
 date: "2018-08-01"
 title: "Jimmy Choo Heels"
-cover: "/static/Heels.jpeg"
+cover: "/static/heels/Heels.jpeg"
 origin: "/illustration/fashion"
+imageFolder: "heels"
 ---
-<div className="post-content">
-<div className="content-image">
-<zoom-image 
-  src='/static/Heels.jpeg' 
-  zoomSrc='/static/Heels.jpeg' 
-  caption='Javia - Jimmy Choo Heels'>
-</zoom-image>
-<hidden>
-    <img src='/static/Heels.jpeg' />
-    <img src='/static/Heels.jpeg' />
-</hidden>
-
-<zoom-image 
-  src='/static/Heels(2).jpeg' 
-  zoomSrc='/static/Heels(2).jpeg' 
-  caption='Javia - Jimmy Choo Heels Illustration'>
-</zoom-image>
-<hidden>
-    <img src='/static/Heels(2).jpeg' />
-    <img src='/static/Heels(2).jpeg' />
-</hidden>
-</div>
-</div>

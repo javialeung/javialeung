@@ -35,7 +35,7 @@ export const pageQuery = graphql`
   query FashionIllustrationQuery {
     allMarkdownRemark(
         sort: { order: DESC, fields: [frontmatter___date] },
-        filter: {fileAbsolutePath: {regex: "/(fashion)/.*\\.md$/"}}
+        filter: {fileAbsolutePath: {regex: "/(illustration-fashion)/.*\\.md$/"}}
     ) {
       edges {
         node {

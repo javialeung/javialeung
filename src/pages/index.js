@@ -64,7 +64,7 @@ class Home extends Component {
                             <img className="image-one" src='/static/Home1.jpeg' />
                         </div>
                         <div className="row-two">
-                            <img className="image-two" src='/static/PetalWoolCoat4.jpeg' />
+                            <img className="image-two" src='/static/petalwoolcoat/PetalWoolCoat4.jpeg' />
                         </div>
                         </div>
                     </div>

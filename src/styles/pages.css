@@ -12,8 +12,9 @@
 
 .content-body {
   font-size: 20px;
-  padding: 10px;
+  padding: 10px 20px;
   flex: 2;
+  min-width: 100px;
 }
 
 .content-text {
@@ -23,6 +24,13 @@
 }
 
 .content-image {
+  flex: 1;
+  object-fit: cover;
+  max-width: 100%;
+  min-width: 200px;
+}
+
+.about-image {
   flex: 1;
   object-fit: cover;
   height: 300px;
