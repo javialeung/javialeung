@@ -72,13 +72,17 @@
       "path---styling-modern-rococo-editorial-7f0a7456ef097e7e5733.js",
       "path---styling-modern-rococo-editorial-7f0a7456ef097e7e5733.js.map"
     ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
     "path---projects-collections-folds": [
       "path---projects-collections-folds-a194986d02a51f6ec30b.js",
       "path---projects-collections-folds-a194986d02a51f6ec30b.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-aa541d1712339256a90a.js",
-      "component---src-layouts-index-js-aa541d1712339256a90a.js.map"
+      "component---src-layouts-index-js-11be2873859ce9e33394.js",
+      "component---src-layouts-index-js-11be2873859ce9e33394.js.map"
     ],
     "path---garments-personal-petal-wool-coat-spring": [
       "path---garments-personal-petal-wool-coat-spring-ff67e645e4ccb2c5a3de.js",
@@ -109,9 +113,9 @@
       "component---src-pages-404-js-e9730a7d4e6a086b6f8f.js.map"
     ],
     "commons": [
-      "commons-7a4bf1e9241a465cc6df.js",
+      "commons-a8128edec5a0f3282e58.js",
       "build-js-styles.css",
-      "commons-7a4bf1e9241a465cc6df.js.map",
+      "commons-a8128edec5a0f3282e58.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-garments-school-js": [
@@ -143,8 +147,8 @@
       "component---src-pages-popup-js-8c194c2a1ba1b6790aae.js.map"
     ],
     "component---src-templates-post-template-js": [
-      "component---src-templates-post-template-js-7b8485609db25fdadc43.js",
-      "component---src-templates-post-template-js-7b8485609db25fdadc43.js.map"
+      "component---src-templates-post-template-js-5465856e38acd4b7c0f8.js",
+      "component---src-templates-post-template-js-5465856e38acd4b7c0f8.js.map"
     ],
     "path---illustration-other-reflection": [
       "path---illustration-other-reflection-86251d906fe75919fbeb.js",
@@ -153,6 +157,10 @@
     "path---styling-philip-treacy": [
       "path---styling-philip-treacy-b45c91370283600547fe.js",
       "path---styling-philip-treacy-b45c91370283600547fe.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---projects-campaigns-cdg-kit": [
       "path---projects-campaigns-cdg-kit-bba2329ced7a56018f33.js",
@@ -171,9 +179,9 @@
       "path---garments-personal-dior-74b8939ef80c5ffe51f4.js.map"
     ],
     "app": [
-      "app-877e6e44e922e9a0210d.js",
+      "app-25130506d6a13e834ef3.js",
       "build-js-styles.css",
-      "app-877e6e44e922e9a0210d.js.map",
+      "app-25130506d6a13e834ef3.js.map",
       "build-js-styles.css.map"
     ],
     "path---garments-personal-origami-skirt": [
